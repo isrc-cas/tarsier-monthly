@@ -1,8 +1,5 @@
 # tarsier-monthly
-Monthly Progress Reports for RISC-V Operating Systems
-- [《RISC-V操作系统进展》·第006期·2023年04月01日](./006-20230401.md)
-- [《RISC-V操作系统进展》·第005期·2023年03月01日](./005-20230301.md)
-- [《RISC-V操作系统进展》·第004期·2023年02月01日](./004-20230201.md)
-- [《RISC-V操作系统进展》·第003期·2023年01月01日](./003-20230101.md)
-- [《RISC-V操作系统进展》·第002期·2022年12月01日](./002-20221201.md)
-- [《RISC-V操作系统进展》·第001期·2022年11月01日](./001-20221101.md)
+
+Monthly Progress Reports for RISC-V Operating Systems.
+
+TARSIER 团队的每个月的公开可见的进展。让我们一起见证 RISC-V 软件生态的快速发展！
